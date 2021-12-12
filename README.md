@@ -4,5 +4,5 @@
 
 
 - 👯 I’m looking to collaborate on a creative project in which I can put my knowledge about Cloud Computing into practice or program using the Python and C#.
-- 📫 How to reach me: [Rafael Ruiz Soto](www.linkedin.com/in/rafael-ruiz-soto-13196b125).
+- 📫 How to reach me: [Rafael Ruiz Soto](https://www.linkedin.com/in/rafael-ruiz-soto-13196b125).
 
