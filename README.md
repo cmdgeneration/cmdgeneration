@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Rafa! 👋:computer:
 # Console.WriteLine("Hello, world!");
  Currently, I am taking an intensive course on Cloud Computing, Python and C# at the EOI (School of Industrial Organization), aimingat acquiring the necessary technical knowledge to work as a Cloud developer.
 
